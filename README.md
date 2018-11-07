@@ -1,2 +1,2 @@
 # Express-GraphQL
-Express GraphQL api ready
+Express GraphQL MongoDB boilerplate
